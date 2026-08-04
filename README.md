@@ -6,6 +6,7 @@ Leetcode Problems
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/karunakaran-07/leetcode-solution/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/karunakaran-07/leetcode-solution/tree/master/0014-longest-common-prefix) |
 ## String
 |  |
@@ -15,4 +16,8 @@ Leetcode Problems
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/karunakaran-07/leetcode-solution/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/karunakaran-07/leetcode-solution/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
